@@ -1,10 +1,10 @@
-# Liferay Message Bus Example
+# Liferay Scheduler Example
 ## Liferay Portal : Liferay 7.4 CE ++ 
 ### Installation
 * Clone current repo    
-`git clone https://github.com/LiferaySavvy/liferay-messagebus-example.git` 
+`git clone https://github.com/LiferaySavvy/liferay-scheduler-example.git` 
 * Direct download link  
-`https://github.com/LiferaySavvy/liferay-messagebus-example/archive/refs/heads/master.zip`     
+`https://codeload.github.com/LiferaySavvy/liferay-scheduler-example/zip/refs/heads/master`     
 
 * Import into your Liferay Workspace and run following gradle tasks.  
 
@@ -19,5 +19,5 @@ gradle deploy
 
 ````
 ### Documentation 
-* [Working with Liferay Message Bus](http://www.liferaysavvy.com/2021/07/working-with-liferay-message-bus.html) 
-* [Liferay Message Bus Implementation](http://www.liferaysavvy.com/2021/07/liferay-message-bus-implementation.html)
+* [Working with Liferay Scheduler](http://www.liferaysavvy.com/2021/07/working-with-liferay-scheduler.html) 
+* [Liferay Dynamic Schedule Jobs Implementation](http://www.liferaysavvy.com/2021/08/liferay-dynamic-schedule-jobs.html)
