@@ -1,0 +1,4 @@
+Bundle-Name: liferay-scheduler-example
+Bundle-SymbolicName: liferay.scheduler.example
+Bundle-Version: 1.0.0
+Export-Package: liferay.scheduler.example.constants
