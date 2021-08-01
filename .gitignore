@@ -1,0 +1,14 @@
+.gradle/
+.sass-cache/
+build/
+target/
+bin/
+.idea/
+.project
+.classpath
+# Compiled class file
+*.class
+
+# Log file
+*.log
+*.iml
