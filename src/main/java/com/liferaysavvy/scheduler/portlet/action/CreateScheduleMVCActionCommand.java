@@ -72,7 +72,6 @@ public class CreateScheduleMVCActionCommand extends BaseMVCActionCommand {
 	protected void createDynamicScheduleJob(String jobName, String groupName, String cron,String destinationName,String description)
 		throws Exception {
 		schedulerService.createSchedule(jobName, groupName, cron,destinationName,description);
-		//messageSenderService.sendSynchronousMessageToDestination(message, destinationName);
 	}
 
 	
